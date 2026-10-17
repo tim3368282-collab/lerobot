@@ -19,7 +19,7 @@ Training Environment
 
 Model Training
 使用 ACT 策略執行模型訓練，保留訓練日誌、Loss 變化及 checkpoint 紀錄。
-file: lerobot_in_kaggle_training.ipynb
+file: lerobot_in_kaggle_training.ipynb 
 目前提供的訓練紀錄包含約 70,000 training steps。
 
 Real-world Robot Experiment
