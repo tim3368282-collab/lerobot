@@ -1,7 +1,6 @@
 # lerobot
 Robotic Arm: ACT Imitation Learning and Real-world Pick-and-Place
 
-Robotic Arm: ACT Imitation Learning
 1. Project Overview
 本專案以 SO-100 實體機械臂為平台，使用開源 LeRobot 相關工具與 ACT（Action Chunking with Transformers）模仿學習策略，實作模型訓練與實體機械臂控制。
 
