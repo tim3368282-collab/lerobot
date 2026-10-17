@@ -19,7 +19,7 @@ Training Environment
 
 Model Training
 使用 ACT 策略執行模型訓練，保留訓練日誌、Loss 變化及 checkpoint 紀錄。
-
+file: lerobot_in_kaggle_training.ipynb
 目前提供的訓練紀錄包含約 70,000 training steps。
 
 Real-world Robot Experiment
@@ -35,8 +35,7 @@ Kaggle 訓練環境建置。
 
 5. Results
 實體 SO-100 機械臂已成功執行物品夾取與放置任務。
-
-後續將補充實驗影片、任務成功率與測試條件，以進一步評估模型在實際環境中的表現。
+video: video_overhead.mp4, video_on_wrist.mp4
 
 6. References
 Kaggle training notebook: https://www.kaggle.com/code/timjas/lerobot
