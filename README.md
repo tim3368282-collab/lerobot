@@ -42,4 +42,4 @@ Kaggle 訓練環境建置。
 Kaggle training notebook: https://www.kaggle.com/code/timjas/lerobot
 GenkiArm source repository: https://gitee.com/huahuaze/genkiarm
 LeRobot: https://github.com/huggingface/lerobot
-註：請依實際使用的程式碼版本確認原始專案、引用方式及授權條款。
+
